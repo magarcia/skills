@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ship Changes"
+  short_description: "Verify and publish a completed change"
+  default_prompt: "Use $ship to verify and publish this completed change."

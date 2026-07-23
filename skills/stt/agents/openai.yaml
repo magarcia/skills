@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Speech to Text"
+  short_description: "Transcribe media locally on Apple Silicon"
+  default_prompt: "Use $stt to transcribe this audio or video file locally."

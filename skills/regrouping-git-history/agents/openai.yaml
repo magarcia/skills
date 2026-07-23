@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regroup Git History"
+  short_description: "Rewrite a branch into logical commits"
+  default_prompt: "Use $regrouping-git-history to reorganize this branch into logical commits."

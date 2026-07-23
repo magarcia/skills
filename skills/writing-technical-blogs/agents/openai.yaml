@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Blog Writing"
+  short_description: "Write technical posts developers will read"
+  default_prompt: "Use $writing-technical-blogs to draft a technical post developers will want to read."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Without AI Tells"
+  short_description: "Edit prose for a natural human voice"
+  default_prompt: "Use $writing-without-ai-tells to rewrite this prose in a natural human voice."

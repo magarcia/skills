@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Image Upload"
+  short_description: "Add local images to GitHub PRs and issues"
+  default_prompt: "Use $pr-image-upload to add this local image to the specified GitHub item."

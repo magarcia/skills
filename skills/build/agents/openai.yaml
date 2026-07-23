@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build End to End"
+  short_description: "Build and ship a feature end to end"
+  default_prompt: "Use $build to implement and ship this feature end to end."

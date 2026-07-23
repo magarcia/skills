@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Sync"
+  short_description: "Find documentation made stale by code"
+  default_prompt: "Use $docs to find and fix documentation made stale by these changes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design Review"
+  short_description: "Review UI changes for design consistency"
+  default_prompt: "Use $design to review these UI changes for design-system consistency."

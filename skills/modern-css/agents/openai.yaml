@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modern CSS"
+  short_description: "Apply production-ready modern CSS patterns"
+  default_prompt: "Use $modern-css to modernize these styles with production-ready CSS patterns."

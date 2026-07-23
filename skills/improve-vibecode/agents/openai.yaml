@@ -1,0 +1,6 @@
+interface:
+  display_name: "Improve VibeCode"
+  short_description: "Clean up AI-assisted code changes safely"
+  default_prompt: "Use $improve-vibecode to audit and improve the quality of my current code changes."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Browser Locale"
+  short_description: "Test browser flows with a chosen locale"
+  default_prompt: "Use $agent-browser-locale to test this browser flow with a specific locale."

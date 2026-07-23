@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clear and Concise Writing"
+  short_description: "Apply Strunk's rules to human-facing prose"
+  default_prompt: "Use $writing-clearly-and-concisely to make this human-facing prose clearer and tighter."

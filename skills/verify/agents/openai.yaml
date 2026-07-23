@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify Changes"
+  short_description: "Prove a change works through real flows"
+  default_prompt: "Use $verify to prove this change works through its real user or caller flows."
