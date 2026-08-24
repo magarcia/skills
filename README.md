@@ -77,6 +77,10 @@ The fix is treating writing as its own discipline:
 - **[writing-technical-blogs](./skills/writing-technical-blogs/SKILL.md)**: Write technical blog posts developers actually read: structure, hooks, skim-test headers.
 - **[writing-without-ai-tells](./skills/writing-without-ai-tells/SKILL.md)**: Write or rewrite prose so it reads like a thoughtful human, not a language model.
 
+### Research
+
+- **[research-dossier](./skills/research-dossier/SKILL.md)**: Answer a question from primary sources and leave a dated, re-walkable record of every source used or discarded. Use it when the evidence needs to survive the chat.
+
 ### Guides
 
 Reference skills the agent reaches for on its own when the task fits.
@@ -97,6 +101,8 @@ The delivery skills above compose several of [Matt Pocock's skills](https://gith
 `code-review`, `codebase-design`, `diagnosing-bugs`, `domain-modeling`, `grill-me`, `grill-with-docs`, `grilling`, `handoff`, `implement`, `improve-codebase-architecture`, `prototype`, `research`, `resolving-merge-conflicts`, `tdd`, `teach`, `to-spec`, `triage`, `wayfinder`, `writing-great-skills`
 
 They were byte-for-byte identical to upstream when I assembled this repo, so I link to the maintained originals instead of duplicating them here.
+
+Matt's `research` is the lighter path when I want a quick answer or delegated reading. I use [`research-dossier`](./skills/research-dossier/SKILL.md) when I need to defend a finding or re-walk every checked source later.
 
 I also use [Vercel's `agent-browser`](https://github.com/vercel-labs/agent-browser) directly. `agent-browser-locale` and `pr-image-upload` depend on it.
 
